@@ -1,15 +1,15 @@
 import styles from '../style/NavButton.module.css';
 import NavButtonModel from '../model/NavButton'
-import Icon1 from "../icons/1.png"
-import Icon2 from "../icons/2.png"
-import Icon3 from "../icons/3.png"
-import Icon4 from "../icons/4.png"
-import Icon5 from "../icons/5.png"
-import Icon6 from "../icons/6.png"
-import Icon7 from "../icons/7.png"
-import Icon8 from "../icons/8.png"
-import Icon9 from "../icons/9.png"
-import Icon10 from "../icons/10.png"
+import Icon1 from "../assets/icons/1.png"
+import Icon2 from "../assets/icons/2.png"
+import Icon3 from "../assets/icons/3.png"
+import Icon4 from "../assets/icons/4.png"
+import Icon5 from "../assets/icons/5.png"
+import Icon6 from "../assets/icons/6.png"
+import Icon7 from "../assets/icons/7.png"
+import Icon8 from "../assets/icons/8.png"
+import Icon9 from "../assets/icons/9.png"
+import Icon10 from "../assets/icons/10.png"
 
 interface Props {
     navButtonModel: NavButtonModel;
