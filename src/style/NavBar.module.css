@@ -1,0 +1,20 @@
+.navBar{
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-width: 100%;
+    height: 56px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border-top: 2px solid #eee;
+}
+
+.grayElement{
+    z-index: 1;
+    position: absolute;
+    height: 100%;
+    width: calc(100% / 5);
+    background-color: #eee;
+    border-top: 4px solid #000;
+}
