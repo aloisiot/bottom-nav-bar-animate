@@ -2,4 +2,4 @@
 
 Projeto desenvolvido com React inspirado na barra de navegação do linkedin
 
-<img src="/src/assets/img/nav-bar.png"/>
+<img src="./src/assets/img/nav-bar.png"/>
